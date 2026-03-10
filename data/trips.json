@@ -1,0 +1,22 @@
+{
+  "trips": [
+    {
+      "id": "2025-05-japan",
+      "year": 2025,
+      "month": 5,
+      "country": "Japan",
+      "city": "Osaka · Kyoto",
+      "cover": "assets/images/2025/japan-may/cover.jpg",
+      "accent": "#C9945A"
+    },
+    {
+      "id": "2025-11-vietnam",
+      "year": 2025,
+      "month": 11,
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City · Mui Ne",
+      "cover": "assets/images/2025/vietnam-november/cover.jpg",
+      "accent": "#E3B04B"
+    }
+  ]
+}

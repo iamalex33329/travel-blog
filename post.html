@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading… — Here & There</title>
+  <meta name="description" content="">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Here & There">
+  <meta property="og:title" content="">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Jost:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ── Header ──────────────────────────────────────── -->
+  <header class="site-header" id="siteHeader">
+    <a href="index.html" class="site-logo">Here & There</a>
+    <nav class="header-nav">
+      <a href="index.html#archive">Archive</a>
+      <a href="index.html#about">About</a>
+    </nav>
+  </header>
+
+  <!-- ── Post Hero ───────────────────────────────────── -->
+  <section class="post-hero" id="postHero">
+    <div class="post-hero__img" id="postHeroImg">
+      <div class="skeleton" style="width:100%;height:100%"></div>
+    </div>
+    <div class="post-hero__overlay"></div>
+    <div class="container">
+      <div class="post-hero__content" id="postHeroContent">
+        <div class="post-hero__breadcrumb">
+          <a href="index.html">Home</a>
+          <span>/</span>
+          <a href="index.html#archive" id="breadcrumbYear">Archive</a>
+          <span>/</span>
+          <span id="breadcrumbTitle">Loading…</span>
+        </div>
+        <p class="t-label post-hero__month" id="postMonth">
+          <span id="postMonthText">…</span>
+        </p>
+        <h1 class="post-hero__title" id="postTitle">Loading…</h1>
+        <p class="post-hero__desc" id="postDesc"></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Meta Bar ─────────────────────────────────────── -->
+  <div class="container">
+    <div class="post-meta-bar" id="postMetaBar">
+      <div class="post-meta-item">
+        <p class="t-label post-meta-item__label post-accent">Country</p>
+        <p class="post-meta-item__value" id="metaCountry">—</p>
+      </div>
+      <div class="post-meta-item">
+        <p class="t-label post-meta-item__label post-accent">City</p>
+        <p class="post-meta-item__value" id="metaCity">—</p>
+      </div>
+      <div class="post-meta-item">
+        <p class="t-label post-meta-item__label post-accent">Month</p>
+        <p class="post-meta-item__value" id="metaMonth">—</p>
+      </div>
+      <div class="post-meta-item">
+        <p class="t-label post-meta-item__label post-accent">Photos</p>
+        <p class="post-meta-item__value" id="metaPhotoCount">—</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Gallery ──────────────────────────────────────── -->
+  <main>
+    <div class="container">
+      <div class="gallery" id="gallery">
+        <!-- Rendered by post.js -->
+      </div>
+    </div>
+
+    <!-- Post Navigation -->
+    <div class="post-nav" id="postNav" style="display:none">
+      <div class="post-nav__item" id="navPrev">
+        <p class="t-label post-nav__dir">
+          <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+          Previous
+        </p>
+        <p class="post-nav__title" id="navPrevTitle"></p>
+      </div>
+      <div class="post-nav__item post-nav__item--next" id="navNext">
+        <p class="t-label post-nav__dir">
+          Next
+          <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+        </p>
+        <p class="post-nav__title" id="navNextTitle"></p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ── Footer ───────────────────────────────────────── -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <span class="footer-logo">Alex Tsai</span>
+        <span id="footerYear"></span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ── Lightbox ─────────────────────────────────────── -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true">
+    <div class="lightbox__inner">
+      <button class="lightbox__close" id="lightboxClose">
+        <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        Close
+      </button>
+      <img class="lightbox__img" id="lightboxImg" src="" alt="">
+      <p class="lightbox__caption" id="lightboxCaption"></p>
+    </div>
+  </div>
+
+  <script src="js/post.js"></script>
+</body>
+</html>

@@ -1,0 +1,134 @@
+{
+  "id": "2025-11-vietnam",
+  "title": "Vietnam, November 2025",
+  "country": "Vietnam",
+  "city": "Ho Chi Minh City · Mui Ne",
+  "month": 11,
+  "year": 2025,
+  "description": "From the endless energy of Ho Chi Minh City to the vast, wind-swept dunes of Mui Ne.",
+  "cover": "assets/images/2025/vietnam-november/cover.jpg",
+  "accent": "#E3B04B",
+  "blocks": [
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/vietnam-november/00.jpg",
+        "caption": "Ben Thanh Market, the oldest and most iconic market in Ho Chi Minh City."
+      }
+    },
+    {
+      "layout": "featured",
+      "photos": [
+        {
+          "src": "assets/images/2025/vietnam-november/01.jpg",
+          "caption": "The famous Cafe Apartments."
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/02.jpg",
+          "caption": "The endless flow of traffic on the city streets."
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/03.jpg",
+          "caption": "A minor bump on the road. Just a small part of the journey."
+        }
+      ]
+    },
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/vietnam-november/04.jpg",
+        "caption": "So many hidden gems here. A perfect spot for a quiet coffee before exploring the bookstore downstairs."
+      }
+    },
+    {
+      "layout": "text",
+      "quote": "A city that never sleeps, but always dreams.",
+      "body": "Ho Chi Minh City is a river of life. The streets are loud, fast, and full of color. But in the middle of all this beautiful chaos, you can always find a quiet corner to sit, breathe, and just watch the world go by."
+    },
+    {
+      "layout": "half",
+      "photos": [
+        {
+          "src": "assets/images/2025/vietnam-november/05.jpg",
+          "caption": ""
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/06.jpg",
+          "caption": "Night views and good drinks at Landmark 81 with friends."
+        }
+      ]
+    },
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/vietnam-november/07.jpg",
+        "caption": "War Remnants Museum. A heavy reminder. Hoping for a world without war. RIP."
+      }
+    },
+    {
+      "layout": "trio",
+      "photos": [
+        {
+          "src": "assets/images/2025/vietnam-november/08.jpg",
+          "caption": "The unique, vast desert landscapes of Mui Ne."
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/09.jpg",
+          "caption": ""
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/13.jpg",
+          "caption": "Cute, round basket boats resting at the local fishing village."
+        }
+      ]
+    },
+    {
+      "layout": "featured",
+      "photos": [
+        {
+          "src": "assets/images/2025/vietnam-november/12.jpg",
+          "caption": "Ho Chi Minh City Museum of Fine Arts"
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/11.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "layout": "text",
+      "quote": "Where the wind draws lines in the sand.",
+      "body": "Leaving the busy city behind, Mui Ne feels like a different world. The air is warm, the rhythm is slow, and the golden sand stretches out under the open sky. It is a place to walk slowly and feel the sun on your skin."
+    },
+    {
+      "layout": "featured",
+      "photos": [
+        {
+          "src": "assets/images/2025/vietnam-november/14.jpg",
+          "caption": "Brightly painted jeeps waiting to take travelers across the dunes."
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/15.jpg",
+          "caption": "A local dog showing off a funny, toothy grin for the camera."
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/16.jpg",
+          "caption": "Driving through dusty, developing roads."
+        }
+      ]
+    },
+    {
+      "layout": "half",
+      "photos": [
+        {
+          "src": "assets/images/2025/vietnam-november/17.jpg",
+          "caption": "The slow and comforting pace of village life."
+        },
+        {
+          "src": "assets/images/2025/vietnam-november/18.jpg",
+          "caption": "Walking along the famous Red Sand Dunes."
+        }
+      ]
+    }
+  ]
+}
