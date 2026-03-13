@@ -1,0 +1,151 @@
+{
+  "id": "china-2025",
+  "title": "China",
+  "country": "China",
+  "city": "Xiamen · Shanghai",
+  "year": 2025,
+  "month": 11,
+  "cover": "assets/images/2025/china-november/cover.jpg",
+  "description": "",
+  "accent": "#0a678f",
+  "blocks": [
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/china-november/13.jpg",
+        "caption": "Watching the city light up from the water."
+      }
+    },
+    {
+      "layout": "trio",
+      "photos": [
+        {
+          "src": "assets/images/2025/china-november/05.jpg",
+          "caption": "Next stop: Nanputuo Temple."
+        },
+        {
+          "src": "assets/images/2025/china-november/06.jpg",
+          "caption": "Xiamen's beautiful contrasts."
+        },
+        {
+          "src": "assets/images/2025/china-november/08.jpg",
+          "caption": "Just taking it slow today."
+        }
+      ]
+    },
+    {
+      "layout": "text",
+      "quote": "Leaving a little piece of my heart in Amoy.",
+      "body": "Offering a gentle escape from the fast-paced city life, Xiamen invites you to slow down and embrace its relaxing, sun-drenched coastal rhythms."
+    },
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/china-november/14.jpg",
+        "caption": "Immersed in the bustling night vibes of the city."
+      }
+    },
+    {
+      "layout": "featured",
+      "photos": [
+        {
+          "src": "assets/images/2025/china-november/10.jpg",
+          "caption": "Nature's lighting is the best lighting."
+        },
+        {
+          "src": "assets/images/2025/china-november/01.jpg",
+          "caption": ""
+        },
+        {
+          "src": "assets/images/2025/china-november/02.jpg",
+          "caption": "The cutest local I’ve met today. haha"
+        }
+      ],
+      "caption": ""
+    },
+    {
+      "layout": "full",
+      "photo": {
+          "src": "assets/images/2025/china-november/15.jpg",
+          "caption": "Bringing home some adorable memories."
+        }
+    },
+    {
+      "layout": "trio",
+      "photos": [
+        {
+          "src": "assets/images/2025/china-november/09.jpg",
+          "caption": "Xiamen University."
+        },
+        {
+          "src": "assets/images/2025/china-november/11.jpg",
+          "caption": "I ❤️ Xiamen!"
+        },
+        {
+          "src": "assets/images/2025/china-november/12.jpg",
+          "caption": "Catching waves and making memories."
+        }
+      ],
+      "caption": ""
+    },
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/china-november/07.jpg",
+        "caption": ""
+      }
+    },
+    {
+      "layout": "text",
+      "quote": "From the pages of a book to real life.",
+      "body": "Stepping out of a book to finally see the iconic Oriental Pearl Tower was surreal, yet it's the vibrant blend of futuristic skyscrapers and everyday street life that truly defines Shanghai."
+    },
+    {
+      "layout": "trio",
+      "photos": [
+        {
+          "src": "assets/images/2025/china-november/20.jpg",
+          "caption": ""
+        },
+        {
+          "src": "assets/images/2025/china-november/19.jpg",
+          "caption": "The magnificent Shanghai giants."
+        },
+        {
+          "src": "assets/images/2025/china-november/18.jpg",
+          "caption": "Golden hour vibes at Nanjing Road."
+        }
+      ]
+    },
+    {
+      "layout": "full",
+      "photo": {
+        "src": "assets/images/2025/china-november/04.jpg",
+        "caption": "Magic in the air at Shanghai Disneyland."
+      }
+    },
+    {
+      "layout": "featured",
+      "photos": [
+        {
+          "src": "assets/images/2025/china-november/03.jpg",
+          "caption": "The timeless charm of an ancient water town."
+        },
+        {
+          "src": "assets/images/2025/china-november/17.jpg",
+          "caption": ""
+        },
+        {
+          "src": "assets/images/2025/china-november/16.jpg",
+          "caption": ""
+        }
+      ],
+      "caption": "The timeless charm of an ancient water town."
+    },
+    {
+      "layout": "text",
+      "quote": "Two cities, two rhythms, one unforgettable journey.",
+      "body": "From the relaxing coastal breeze of Xiamen to the grand, bustling streets of Shanghai, this trip offered the perfect balance of slow days and bright nights. Both cities left a unique mark on my heart."
+    }
+  ]
+}

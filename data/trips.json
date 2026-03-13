@@ -1,13 +1,13 @@
 {
   "trips": [
     {
-      "id": "2025-05-japan",
+      "id": "2025-11-china",
+      "country": "China",
+      "city": "Xiamen · Shanghai",
       "year": 2025,
-      "month": 5,
-      "country": "Japan",
-      "city": "Osaka · Kyoto",
-      "cover": "assets/images/2025/japan-may/cover.jpg",
-      "accent": "#C9945A"
+      "month": 11,
+      "cover": "assets/images/2025/china-november/cover.webp",
+      "accent": "#0A678F"
     },
     {
       "id": "2025-11-vietnam",
@@ -15,8 +15,17 @@
       "month": 11,
       "country": "Vietnam",
       "city": "Ho Chi Minh City · Mui Ne",
-      "cover": "assets/images/2025/vietnam-november/cover.jpg",
+      "cover": "assets/images/2025/vietnam-november/cover.webp",
       "accent": "#E3B04B"
+    },
+    {
+      "id": "2025-05-japan",
+      "year": 2025,
+      "month": 5,
+      "country": "Japan",
+      "city": "Osaka · Kyoto",
+      "cover": "assets/images/2025/japan-may/cover.webp",
+      "accent": "#C9945A"
     }
   ]
 }
