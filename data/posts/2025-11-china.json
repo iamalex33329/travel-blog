@@ -5,14 +5,14 @@
   "city": "Xiamen · Shanghai",
   "year": 2025,
   "month": 11,
-  "cover": "assets/images/2025/china-november/cover.jpg",
+  "cover": "assets/images/2025/china-november/cover.webp",
   "description": "",
   "accent": "#0a678f",
   "blocks": [
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/china-november/13.jpg",
+        "src": "assets/images/2025/china-november/13.webp",
         "caption": "Watching the city light up from the water."
       }
     },
@@ -20,15 +20,15 @@
       "layout": "trio",
       "photos": [
         {
-          "src": "assets/images/2025/china-november/05.jpg",
+          "src": "assets/images/2025/china-november/05.webp",
           "caption": "Next stop: Nanputuo Temple."
         },
         {
-          "src": "assets/images/2025/china-november/06.jpg",
+          "src": "assets/images/2025/china-november/06.webp",
           "caption": "Xiamen's beautiful contrasts."
         },
         {
-          "src": "assets/images/2025/china-november/08.jpg",
+          "src": "assets/images/2025/china-november/08.webp",
           "caption": "Just taking it slow today."
         }
       ]
@@ -41,7 +41,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/china-november/14.jpg",
+        "src": "assets/images/2025/china-november/14.webp",
         "caption": "Immersed in the bustling night vibes of the city."
       }
     },
@@ -49,15 +49,15 @@
       "layout": "featured",
       "photos": [
         {
-          "src": "assets/images/2025/china-november/10.jpg",
+          "src": "assets/images/2025/china-november/10.webp",
           "caption": "Nature's lighting is the best lighting."
         },
         {
-          "src": "assets/images/2025/china-november/01.jpg",
+          "src": "assets/images/2025/china-november/01.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/china-november/02.jpg",
+          "src": "assets/images/2025/china-november/02.webp",
           "caption": "The cutest local I’ve met today. haha"
         }
       ],
@@ -66,7 +66,7 @@
     {
       "layout": "full",
       "photo": {
-          "src": "assets/images/2025/china-november/15.jpg",
+          "src": "assets/images/2025/china-november/15.webp",
           "caption": "Bringing home some adorable memories."
         }
     },
@@ -74,15 +74,15 @@
       "layout": "trio",
       "photos": [
         {
-          "src": "assets/images/2025/china-november/09.jpg",
+          "src": "assets/images/2025/china-november/09.webp",
           "caption": "Xiamen University."
         },
         {
-          "src": "assets/images/2025/china-november/11.jpg",
+          "src": "assets/images/2025/china-november/11.webp",
           "caption": "I ❤️ Xiamen!"
         },
         {
-          "src": "assets/images/2025/china-november/12.jpg",
+          "src": "assets/images/2025/china-november/12.webp",
           "caption": "Catching waves and making memories."
         }
       ],
@@ -91,7 +91,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/china-november/07.jpg",
+        "src": "assets/images/2025/china-november/07.webp",
         "caption": ""
       }
     },
@@ -104,15 +104,15 @@
       "layout": "trio",
       "photos": [
         {
-          "src": "assets/images/2025/china-november/20.jpg",
+          "src": "assets/images/2025/china-november/20.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/china-november/19.jpg",
+          "src": "assets/images/2025/china-november/19.webp",
           "caption": "The magnificent Shanghai giants."
         },
         {
-          "src": "assets/images/2025/china-november/18.jpg",
+          "src": "assets/images/2025/china-november/18.webp",
           "caption": "Golden hour vibes at Nanjing Road."
         }
       ]
@@ -120,7 +120,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/china-november/04.jpg",
+        "src": "assets/images/2025/china-november/04.webp",
         "caption": "Magic in the air at Shanghai Disneyland."
       }
     },
@@ -128,15 +128,15 @@
       "layout": "featured",
       "photos": [
         {
-          "src": "assets/images/2025/china-november/03.jpg",
+          "src": "assets/images/2025/china-november/03.webp",
           "caption": "The timeless charm of an ancient water town."
         },
         {
-          "src": "assets/images/2025/china-november/17.jpg",
+          "src": "assets/images/2025/china-november/17.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/china-november/16.jpg",
+          "src": "assets/images/2025/china-november/16.webp",
           "caption": ""
         }
       ],

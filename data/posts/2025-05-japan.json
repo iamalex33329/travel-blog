@@ -6,7 +6,7 @@
   "month": 5,
   "year": 2025,
   "description": "Chasing the quiet rustle of bamboo groves and the endless glow of neon nights in early summer.",
-  "cover": "assets/images/2025/japan-may/cover.jpg",
+  "cover": "assets/images/2025/japan-may/cover.webp",
   "accent": "#C9945A",
 
   "blocks": [
@@ -14,15 +14,15 @@
       "layout": "featured",
       "photos": [
         {
-          "src": "assets/images/2025/japan-may/01.jpg",
+          "src": "assets/images/2025/japan-may/01.webp",
           "caption": "Dotonbori's famous runner."
         },
         {
-          "src": "assets/images/2025/japan-may/02.jpg",
+          "src": "assets/images/2025/japan-may/02.webp",
           "caption": "Yakiniku Rikimaru in Osaka — the best yakiniku I've ever had."
         },
         {
-          "src": "assets/images/2025/japan-may/03.jpg",
+          "src": "assets/images/2025/japan-may/03.webp",
           "caption": ""
         }
       ]
@@ -30,7 +30,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/japan-may/04.jpg",
+        "src": "assets/images/2025/japan-may/04.webp",
         "caption": "Captured this at Osaka Castle: a miniature army from the Sengoku era. The detail is insane!"
       }
     },
@@ -43,15 +43,15 @@
       "layout": "trio",
       "photos": [
         {
-          "src": "assets/images/2025/japan-may/06.jpg",
+          "src": "assets/images/2025/japan-may/06.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/japan-may/05.jpg",
+          "src": "assets/images/2025/japan-may/05.webp",
           "caption": "Togetsukyo Bridge, where the moon gracefully crosses."
         },
         {
-          "src": "assets/images/2025/japan-may/07.jpg",
+          "src": "assets/images/2025/japan-may/07.webp",
           "caption": "Kiyomizu-dera."
         }
       ]
@@ -59,7 +59,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/japan-may/08.jpg",
+        "src": "assets/images/2025/japan-may/08.webp",
         "caption": "Standing on the centuries-old stage of Kiyomizu-dera, taking in the breathtaking view of Kyoto."
       }
     },
@@ -71,15 +71,15 @@
       "layout": "trio",
       "photos": [
         {
-          "src": "assets/images/2025/japan-may/09.jpg",
+          "src": "assets/images/2025/japan-may/09.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/japan-may/10.jpg",
+          "src": "assets/images/2025/japan-may/10.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/japan-may/11.jpg",
+          "src": "assets/images/2025/japan-may/11.webp",
           "caption": "Arashiyama Bamboo Grove is a natural bamboo forest in Kyoto."
         }
       ]

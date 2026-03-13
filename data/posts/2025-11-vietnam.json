@@ -6,13 +6,13 @@
   "month": 11,
   "year": 2025,
   "description": "From the endless energy of Ho Chi Minh City to the vast, wind-swept dunes of Mui Ne.",
-  "cover": "assets/images/2025/vietnam-november/cover.jpg",
+  "cover": "assets/images/2025/vietnam-november/cover.webp",
   "accent": "#E3B04B",
   "blocks": [
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/vietnam-november/00.jpg",
+        "src": "assets/images/2025/vietnam-november/00.webp",
         "caption": "Ben Thanh Market, the oldest and most iconic market in Ho Chi Minh City."
       }
     },
@@ -20,15 +20,15 @@
       "layout": "featured",
       "photos": [
         {
-          "src": "assets/images/2025/vietnam-november/01.jpg",
+          "src": "assets/images/2025/vietnam-november/01.webp",
           "caption": "The famous Cafe Apartments."
         },
         {
-          "src": "assets/images/2025/vietnam-november/02.jpg",
+          "src": "assets/images/2025/vietnam-november/02.webp",
           "caption": "The endless flow of traffic on the city streets."
         },
         {
-          "src": "assets/images/2025/vietnam-november/03.jpg",
+          "src": "assets/images/2025/vietnam-november/03.webp",
           "caption": "A minor bump on the road. Just a small part of the journey."
         }
       ]
@@ -36,7 +36,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/vietnam-november/04.jpg",
+        "src": "assets/images/2025/vietnam-november/04.webp",
         "caption": "So many hidden gems here. A perfect spot for a quiet coffee before exploring the bookstore downstairs."
       }
     },
@@ -49,11 +49,11 @@
       "layout": "half",
       "photos": [
         {
-          "src": "assets/images/2025/vietnam-november/05.jpg",
+          "src": "assets/images/2025/vietnam-november/05.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/vietnam-november/06.jpg",
+          "src": "assets/images/2025/vietnam-november/06.webp",
           "caption": "Night views and good drinks at Landmark 81 with friends."
         }
       ]
@@ -61,7 +61,7 @@
     {
       "layout": "full",
       "photo": {
-        "src": "assets/images/2025/vietnam-november/07.jpg",
+        "src": "assets/images/2025/vietnam-november/07.webp",
         "caption": "War Remnants Museum. A heavy reminder. Hoping for a world without war. RIP."
       }
     },
@@ -69,15 +69,15 @@
       "layout": "trio",
       "photos": [
         {
-          "src": "assets/images/2025/vietnam-november/08.jpg",
+          "src": "assets/images/2025/vietnam-november/08.webp",
           "caption": "The unique, vast desert landscapes of Mui Ne."
         },
         {
-          "src": "assets/images/2025/vietnam-november/09.jpg",
+          "src": "assets/images/2025/vietnam-november/09.webp",
           "caption": ""
         },
         {
-          "src": "assets/images/2025/vietnam-november/13.jpg",
+          "src": "assets/images/2025/vietnam-november/13.webp",
           "caption": "Cute, round basket boats resting at the local fishing village."
         }
       ]
@@ -86,11 +86,11 @@
       "layout": "featured",
       "photos": [
         {
-          "src": "assets/images/2025/vietnam-november/12.jpg",
+          "src": "assets/images/2025/vietnam-november/12.webp",
           "caption": "Ho Chi Minh City Museum of Fine Arts"
         },
         {
-          "src": "assets/images/2025/vietnam-november/11.jpg",
+          "src": "assets/images/2025/vietnam-november/11.webp",
           "caption": ""
         }
       ]
@@ -104,15 +104,15 @@
       "layout": "featured",
       "photos": [
         {
-          "src": "assets/images/2025/vietnam-november/14.jpg",
+          "src": "assets/images/2025/vietnam-november/14.webp",
           "caption": "Brightly painted jeeps waiting to take travelers across the dunes."
         },
         {
-          "src": "assets/images/2025/vietnam-november/15.jpg",
+          "src": "assets/images/2025/vietnam-november/15.webp",
           "caption": "A local dog showing off a funny, toothy grin for the camera."
         },
         {
-          "src": "assets/images/2025/vietnam-november/16.jpg",
+          "src": "assets/images/2025/vietnam-november/16.webp",
           "caption": "Driving through dusty, developing roads."
         }
       ]
@@ -121,11 +121,11 @@
       "layout": "half",
       "photos": [
         {
-          "src": "assets/images/2025/vietnam-november/17.jpg",
+          "src": "assets/images/2025/vietnam-november/17.webp",
           "caption": "The slow and comforting pace of village life."
         },
         {
-          "src": "assets/images/2025/vietnam-november/18.jpg",
+          "src": "assets/images/2025/vietnam-november/18.webp",
           "caption": "Walking along the famous Red Sand Dunes."
         }
       ]
